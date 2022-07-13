@@ -1,0 +1,17 @@
+/* Tambahkan pada Baris terakhir style.css*/ 
+.tombol { 
+    display: inline-block; 
+    padding: 14px 15px; 
+    color: white; 
+    cursor: pointer; 
+    text-align: center; 
+    text-decoration: none; 
+  } 
+   
+  .tombol.edit { 
+    background-color: #038ade; 
+  } 
+   
+  .tombol.hapus { 
+    background-color: #f44336; 
+  }
